@@ -26,8 +26,3 @@ This project provides a comprehensive analysis of internet sales data using **Po
 
 ---
 
-## 🚀 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/sales-data-analysis.git
